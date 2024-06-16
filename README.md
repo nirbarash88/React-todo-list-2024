@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # React-to-do-list-2024
 this is a to-do list i have made using react
 >>>>>>> 9bab0e8306083d6caec0d937dfbcc839953e3ba7
+=======
+# React-todo-list-2024
+this is a to-do list i have made using react
+>>>>>>> 397b157c18d8855578dadb1a4adf7d6b205ddcf0
